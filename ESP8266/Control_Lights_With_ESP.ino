@@ -1,9 +1,9 @@
 // Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 // Control Lights with ESP8266
-// This code is designed to work with the MPL115A2_I2CS I2C Mini Module available from ControlEverything.com.
-// https://www.controleverything.com/content/Barometer?sku=MPL115A2_I2CS#tabs-0-product_tabset-2
-// https://www.controleverything.com/content/Relay-Controller?sku=MCP23008_I2CR8G5LE_10A#tabs-0-product_tabset-2
+// This code is designed to work with the MPL115A2_I2CS I2C Mini Module available from Dcubestore.com.
+// http://dcubestore.com/product/mpl115a2/
+// http://dcubestore.com/product/i%C2%B2c-relay-controller-8-channel-spdt-10-amp/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
