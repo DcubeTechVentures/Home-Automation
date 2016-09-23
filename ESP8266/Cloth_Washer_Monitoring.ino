@@ -1,8 +1,8 @@
 // Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 // Cloth Washer/Dryer Monitoring with ESP8266
-// This code is designed to work with the H3LIS331DL_I2CS I2C Mini Module available from ControlEverything.com.
-// https://www.controleverything.com/content/Accelorometer?sku=H3LIS331DL_I2CS#tabs-0-product_tabset-2
+// This code is designed to work with the H3LIS331DL_I2CS I2C Mini Module available from Dcubestore.com.
+// http://dcubestore.com/product/h3lis331dl-3-axis-linear-accelerometer-i%C2%B2c-mini-module/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
