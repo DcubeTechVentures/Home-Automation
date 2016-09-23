@@ -1,9 +1,9 @@
 // Distributed with a free-will license.
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 // Home Automation with ESP8266
-// This code is designed to work with the TSL45315_I2CS I2C Mini Module available from ControlEverything.com.
-// https://www.controleverything.com/content/Light?sku=TSL45315_I2CS#tabs-0-product_tabset-2
-// https://www.controleverything.com/content/Relay-Controller?sku=MCP23008_I2CR8G5LE_10A#tabs-0-product_tabset-2
+// This code is designed to work with the TSL45315_I2CS I2C Mini Module available from Dcubestore.com.
+// http://dcubestore.com/product/tmg39931-light-sensor-gesture-color-als-and-proximity-sensor-i%C2%B2c-mini-module/
+// http://dcubestore.com/product/i%C2%B2c-relay-controller-8-channel-spdt-10-amp/
 
 #include <ESP8266WiFi.h>
 #include <WiFiClient.h>
@@ -163,4 +163,3 @@ void loop()
 {
   server.handleClient();
 }
-
